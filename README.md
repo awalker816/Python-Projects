@@ -71,7 +71,7 @@ Your ultimate band name could be: Purple Tornado!
 ## 👩🏽‍💻 Author
 **April Walker**  
 - 🎓 Cybersecurity & IT Professional | Python Beginner  
-- 🌐 [LinkedIn](www.linkedin.com/in/aprilviolet) | [GitHub](https://github.com/awalker816?tab=projects)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aprilviolet) | [GitHub](https://github.com/awalker816?tab=projects)  
 
 ---
 
